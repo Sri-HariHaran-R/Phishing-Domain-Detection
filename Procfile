@@ -1,0 +1,1 @@
+web: gunicorn predict_page:predict_page --log-file -
